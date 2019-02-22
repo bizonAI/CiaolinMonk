@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Body
   m_Shader: {fileID: 4800000, guid: 9c6ece3d5ef8bb84db19471daaf6c788, type: 3}
   m_ShaderKeywords: 
@@ -28,7 +29,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _LightSmoothness: 0
-    - _LightThreshold: 0.342
+    - _LightThreshold: 0.169
     - _MKEditorShowDetailBehavior: 0
     - _MKEditorShowDissolveBehavior: 0
     - _MKEditorShowLightBehavior: 1
@@ -42,14 +43,14 @@ Material:
     - _MKEditorShowSpecularBehavior: 0
     - _MKEditorShowTranslucentBehavior: 0
     - _OutlineSize: 0.01
-    - _RimIntensity: 0.5
+    - _RimIntensity: 0.376
     - _RimSize: 1.5
     - _RimSmoothness: 0
-    - _ShadowIntensity: 0.743
+    - _ShadowIntensity: 0
     - _Shininess: 0.01
     - _SpecularIntensity: 0
     m_Colors:
-    - _Color: {r: 0.8773585, g: 0.73376125, b: 0.5504183, a: 1}
+    - _Color: {r: 0.5943396, g: 0.4301019, b: 0.2214756, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HighlightColor: {r: 1, g: 1, b: 1, a: 1}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
