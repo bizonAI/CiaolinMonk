@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 024a5deea7a6251479f7aae54f2d18a2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Amaturen
+    100002: Amaturenbrett
+    100004: Flosse
+    100006: "Fl\xFCgel"
+    100008: "Fl\xFCgel_Hinten"
+    100010: "FL\xFCgelSteuer"
+    100012: "Fl\xFCgelSt\xFCtzeInnen"
+    100014: "HintereFl\xFCgelSteuer"
+    100016: "HintereSt\xFCtze"
+    100018: Hinterruder
+    100020: //RootNode
+    100022: Motorblock
+    100024: Propeller 1
+    100026: Propeller 2
+    100028: PropellerHalter
+    100030: Radhalter
+    100032: Rumpf001
+    100034: "R\xE4der"
+    100036: "R\xE4derhalter"
+    100038: Steuer
+    400000: Amaturen
+    400002: Amaturenbrett
+    400004: Flosse
+    400006: "Fl\xFCgel"
+    400008: "Fl\xFCgel_Hinten"
+    400010: "FL\xFCgelSteuer"
+    400012: "Fl\xFCgelSt\xFCtzeInnen"
+    400014: "HintereFl\xFCgelSteuer"
+    400016: "HintereSt\xFCtze"
+    400018: Hinterruder
+    400020: //RootNode
+    400022: Motorblock
+    400024: Propeller 1
+    400026: Propeller 2
+    400028: PropellerHalter
+    400030: Radhalter
+    400032: Rumpf001
+    400034: "R\xE4der"
+    400036: "R\xE4derhalter"
+    400038: Steuer
+    2100000: No Name
+    2300000: Amaturen
+    2300002: Amaturenbrett
+    2300004: Flosse
+    2300006: "Fl\xFCgel"
+    2300008: "Fl\xFCgel_Hinten"
+    2300010: "FL\xFCgelSteuer"
+    2300012: "Fl\xFCgelSt\xFCtzeInnen"
+    2300014: "HintereFl\xFCgelSteuer"
+    2300016: "HintereSt\xFCtze"
+    2300018: Hinterruder
+    2300020: Motorblock
+    2300022: Propeller 1
+    2300024: Propeller 2
+    2300026: PropellerHalter
+    2300028: Radhalter
+    2300030: Rumpf001
+    2300032: "R\xE4der"
+    2300034: "R\xE4derhalter"
+    2300036: Steuer
+    3300000: Amaturen
+    3300002: Amaturenbrett
+    3300004: Flosse
+    3300006: "Fl\xFCgel"
+    3300008: "Fl\xFCgel_Hinten"
+    3300010: "FL\xFCgelSteuer"
+    3300012: "Fl\xFCgelSt\xFCtzeInnen"
+    3300014: "HintereFl\xFCgelSteuer"
+    3300016: "HintereSt\xFCtze"
+    3300018: Hinterruder
+    3300020: Motorblock
+    3300022: Propeller 1
+    3300024: Propeller 2
+    3300026: PropellerHalter
+    3300028: Radhalter
+    3300030: Rumpf001
+    3300032: "R\xE4der"
+    3300034: "R\xE4derhalter"
+    3300036: Steuer
+    4300000: "R\xE4derhalter"
+    4300002: Radhalter
+    4300004: "R\xE4der"
+    4300006: Rumpf001
+    4300008: Flosse
+    4300010: Hinterruder
+    4300012: Amaturen
+    4300014: "HintereSt\xFCtze"
+    4300016: Steuer
+    4300018: "Fl\xFCgel"
+    4300020: "FL\xFCgelSteuer"
+    4300022: "Fl\xFCgelSt\xFCtzeInnen"
+    4300024: "Fl\xFCgel_Hinten"
+    4300026: "HintereFl\xFCgelSteuer"
+    4300028: Motorblock
+    4300030: PropellerHalter
+    4300032: Propeller 2
+    4300034: Propeller 1
+    4300036: Amaturenbrett
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
