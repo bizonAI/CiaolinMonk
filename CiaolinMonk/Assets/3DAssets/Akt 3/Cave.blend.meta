@@ -8,22 +8,47 @@ ModelImporter:
     100004: Cube__1_
     100006: Cylinder
     100008: Cylinder_001
+    100010: Cube
+    100012: Cube_001
+    100014: Cube_002
+    100016: Cube_003
+    100018: Cube_004
     400000: //RootNode
     400002: Cave
     400004: Cube__1_
     400006: Cylinder
     400008: Cylinder_001
+    400010: Cube
+    400012: Cube_001
+    400014: Cube_002
+    400016: Cube_003
+    400018: Cube_004
     2100000: unnamed
     2100002: Default_Material
     2300000: Cube__1_
     2300002: Cylinder
     2300004: Cylinder_001
+    2300006: Cube
+    2300008: Cube_001
+    2300010: Cube_002
+    2300012: Cube_003
+    2300014: Cube_004
     3300000: Cube__1_
     3300002: Cylinder
     3300004: Cylinder_001
+    3300006: Cube
+    3300008: Cube_001
+    3300010: Cube_002
+    3300012: Cube_003
+    3300014: Cube_004
     4300000: Cylinder
     4300002: Cube__1_
     4300004: Cylinder_001
+    4300006: Cube_001
+    4300008: Cube
+    4300010: Cube_003
+    4300012: Cube_002
+    4300014: Cube_004
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
