@@ -320,7 +320,7 @@ Light:
   m_CookieSize: 10
   m_Shadows:
     m_Type: 2
-    m_Resolution: -1
+    m_Resolution: 3
     m_CustomResolution: -1
     m_Strength: 1
     m_Bias: 0.05
@@ -961,7 +961,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534669902}
-  m_LocalRotation: {x: -0.07565625, y: 0.30314603, z: -0.024151277, w: -0.82755816}
+  m_LocalRotation: {x: -0.07565625, y: 0.30314603, z: -0.024151277, w: -0.94962907}
   m_LocalPosition: {x: 8.985345, y: 1.5437152, z: 3.6648378}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -1480,10 +1480,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: CiaoMonk
       objectReference: {fileID: 0}
-    - target: {fileID: 9500000, guid: d66f302b5e6be0c43a190cda9e563f1e, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d66f302b5e6be0c43a190cda9e563f1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1540,6 +1536,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 69d444e1c5c8b534d8148db2096852ad, type: 2}
+    - target: {fileID: 9500000, guid: d66f302b5e6be0c43a190cda9e563f1e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d66f302b5e6be0c43a190cda9e563f1e, type: 3}
 --- !u!1 &913869313
@@ -3402,7 +3402,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1282811700}
-  m_LocalRotation: {x: -0.032433033, y: 0.46591803, z: 0.01709273, w: 0.8840681}
+  m_LocalRotation: {x: -0.030635664, y: 0.9023907, z: -0.06506699, w: -0.42487502}
   m_LocalPosition: {x: 4.065674, y: 1.3704175, z: 3.4726543}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -8938,8 +8938,8 @@ Light:
   m_SpotAngle: 30
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
+    m_Type: 2
+    m_Resolution: 3
     m_CustomResolution: -1
     m_Strength: 1
     m_Bias: 0.05
@@ -8952,7 +8952,7 @@ Light:
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_Lightmapping: 4
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
