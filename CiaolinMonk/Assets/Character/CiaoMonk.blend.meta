@@ -75,6 +75,12 @@ ModelImporter:
     100138: mixamorig_Spine
     100140: mixamorig_Spine1
     100142: mixamorig_Spine2
+    100144: Cube_003
+    100146: Cube_004
+    100148: Cube_005
+    100150: Cube_006
+    100152: Cube_007
+    100154: Cube_008
     400000: Armature
     400002: //RootNode
     400004: Cube
@@ -147,15 +153,39 @@ ModelImporter:
     400138: mixamorig_Spine
     400140: mixamorig_Spine1
     400142: mixamorig_Spine2
+    400144: Cube_003
+    400146: Cube_004
+    400148: Cube_005
+    400150: Cube_006
+    400152: Cube_007
+    400154: Cube_008
     2100000: body
     2100002: Guertel
     2100004: Hose
     2100006: ArmBand
+    2300000: Cube_003
+    2300002: Cube_004
+    2300004: Cube_005
+    2300006: Cube_006
+    2300008: Cube_007
+    2300010: Cube_008
+    3300000: Cube_003
+    3300002: Cube_004
+    3300004: Cube_005
+    3300006: Cube_006
+    3300008: Cube_007
+    3300010: Cube_008
     4300000: lowman_shoes_001
     4300002: Cube_002
     4300004: Cube_001
     4300006: Cube
     4300008: Cylinder
+    4300010: Cube_008
+    4300012: Cube_007
+    4300014: Cube_006
+    4300016: Cube_005
+    4300018: Cube_004
+    4300020: Cube_003
     7400000: Default Take
     9500000: //RootNode
     13700000: Cube
