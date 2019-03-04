@@ -4,9 +4,13 @@ using UnityEngine;
 
 public class SlowMotionManager : MonoBehaviour
 {
+
+    public GameObject explosion;
     float standartTime = 1f;
     public float slowdownFactor = 0.05f;
     public float slowdownLenght = 2f;
+
+    public GameObject NotKinematic;
 
 
     /*void Update()
@@ -26,6 +30,15 @@ public class SlowMotionManager : MonoBehaviour
     {
         Time.timeScale = 1f;
     }
+
+    public void CometExplosion(){
+
+       // FindObjectOfType<>
+        Instantiate(explosion, transform.position, transform.rotation);
+
+
+    }
+
 
 
    
