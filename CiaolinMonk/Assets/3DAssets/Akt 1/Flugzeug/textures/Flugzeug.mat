@@ -83,8 +83,8 @@ Material:
     - _OutlineSize: 0.008
     - _Parallax: 0.02
     - _RimIntensity: 0
-    - _RimSize: 1.5
-    - _RimSmoothness: 0.5
+    - _RimSize: 0
+    - _RimSmoothness: 0
     - _ShadowIntensity: 1
     - _Shininess: 0.275
     - _SmoothnessTextureChannel: 0

@@ -43,8 +43,8 @@ Material:
     - _MKEditorShowSpecularBehavior: 0
     - _MKEditorShowTranslucentBehavior: 0
     - _OutlineSize: 0.005
-    - _RimIntensity: 0.376
-    - _RimSize: 1.5
+    - _RimIntensity: 1
+    - _RimSize: 0.92
     - _RimSmoothness: 0
     - _ShadowIntensity: 0
     - _Shininess: 0.01
@@ -54,6 +54,6 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HighlightColor: {r: 1, g: 1, b: 1, a: 1}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
-    - _RimColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 1, g: 0.7843138, b: 0.3921569, a: 1}
     - _ShadowColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 0.5}
