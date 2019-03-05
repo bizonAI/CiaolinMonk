@@ -2398,7 +2398,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 887560275}
   m_LocalRotation: {x: 0.0132399835, y: 0.313079, z: -0.05542156, w: -0.94801617}
+<<<<<<< HEAD
   m_LocalPosition: {x: 1.6734318, y: 1.09, z: 5.0067677}
+=======
+  m_LocalPosition: {x: -5.052854, y: 1.452342, z: -4.1341634}
+>>>>>>> fdc44d9871898bcd94dbd865ad8bd692bd73082a
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 886543900}
@@ -4969,6 +4973,25 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: dcb0adbb671edeb4f92d0d417bda0c9c, type: 2}
+<<<<<<< HEAD
+=======
+    - target: {fileID: 13700008, guid: d66f302b5e6be0c43a190cda9e563f1e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69d444e1c5c8b534d8148db2096852ad, type: 2}
+    - target: {fileID: 400010, guid: d66f302b5e6be0c43a190cda9e563f1e, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400012, guid: d66f302b5e6be0c43a190cda9e563f1e, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 400154, guid: d66f302b5e6be0c43a190cda9e563f1e, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+>>>>>>> fdc44d9871898bcd94dbd865ad8bd692bd73082a
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d66f302b5e6be0c43a190cda9e563f1e, type: 3}
 --- !u!4 &1847636655 stripped
@@ -5740,8 +5763,13 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 0}
   m_AABB:
+<<<<<<< HEAD
     m_Center: {x: 6.4028427e-10, y: 0.0004428222, z: -0.0043265065}
     m_Extent: {x: 0.004706751, y: 0.003318353, z: 0.0071789185}
+=======
+    m_Center: {x: 0.0000000018626451, y: 0.0004428206, z: -0.0043265084}
+    m_Extent: {x: 0.008944169, y: 0.0076421737, z: 0.010919838}
+>>>>>>> fdc44d9871898bcd94dbd865ad8bd692bd73082a
   m_DirtyAABB: 0
 --- !u!183 &1973801409
 Cloth:
@@ -7495,8 +7523,8 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2097492451}
   serializedVersion: 6
-  lengthInSec: 0.05
-  simulationSpeed: 1
+  lengthInSec: 12.84
+  simulationSpeed: 3.88
   stopAction: 0
   cullingMode: 0
   ringBufferMode: 0
@@ -7570,7 +7598,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.82
+      scalar: 35.6
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -7623,8 +7651,8 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 11
-      minScalar: 5
+      scalar: 12.51
+      minScalar: 1.66
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -7739,7 +7767,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.2
+      scalar: 0.33
       minScalar: 0.34
       maxCurve:
         serializedVersion: 2
@@ -8055,7 +8083,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     randomizeRotationDirection: 0
-    maxNumParticles: 153
+    maxNumParticles: 1139
     size3D: 0
     rotation3D: 0
     gravityModifier:
@@ -8122,7 +8150,7 @@ ParticleSystem:
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
-    m_Scale: {x: 1.15, y: 1.79, z: 1.16}
+    m_Scale: {x: 1.15, y: 1.18, z: 1.16}
     placementMode: 0
     m_MeshMaterialIndex: 0
     m_MeshNormalOffset: 0
@@ -8201,7 +8229,7 @@ ParticleSystem:
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
-      value: 3.35
+      value: 1.05
       mode: 0
       spread: 0
       speed:
@@ -11338,11 +11366,11 @@ ParticleSystem:
   TrailModule:
     enabled: 1
     mode: 0
-    ratio: 0.51
+    ratio: 1
     lifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.07
+      scalar: 0.002
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -11392,7 +11420,7 @@ ParticleSystem:
         m_PreInfinity: 2
         m_PostInfinity: 2
         m_RotationOrder: 4
-    minVertexDistance: 1.21
+    minVertexDistance: 2.9
     textureMode: 3
     ribbonCount: 1
     shadowBias: 6.73
@@ -12157,7 +12185,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2097492451}
   m_LocalRotation: {x: -0.0064641396, y: 0.70707726, z: -0.70707726, w: 0.0064641396}
-  m_LocalPosition: {x: 0, y: 6.24, z: 0}
+  m_LocalPosition: {x: -1.22, y: 4.2, z: -0.48}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 930379185}
